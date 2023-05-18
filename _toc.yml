@@ -4,5 +4,5 @@
 format: jb-book
 root: intro
 chapters:
-- file: Advance_final
 - file: Jupyter_python
+- file: Stata_dyndoc
