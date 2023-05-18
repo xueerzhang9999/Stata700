@@ -8,7 +8,6 @@ The programs presented in this book are designed to perform various statistical 
 
 The primary purpose of this book is to facilitate the understanding and use of these Stata programs. The book includes detailed explanations of each program, along with examples of their use.
    
-   
 Check out the content pages bundled with this sample book to see more.
 
 ```{tableofcontents}
